@@ -1,0 +1,99 @@
+header{
+    background-color:white;
+    padding-left: 300px;
+    height:100px;
+}
+
+#me{
+ position:relative;
+ background-color:#4aaaa5;
+ top:63px;
+ margin-right: 100px; 
+ margin-left: 0px; 
+ padding-left:20px;
+ padding-right:10px;
+ width:200px;
+ /* border:none; */
+ /* text-align: 25px; */
+ color:white;
+}
+
+#aboutContent h1{
+margin-left:20px;
+
+}
+#aboutMe{
+    position:relative;
+    background-color:#4aaaa5;
+    top:63px;
+    margin-right: 100px; 
+    margin-left: -100px; 
+    width:200px;
+    padding-left:20px;
+    padding-right:10px;
+    /* border:none; */
+    /* text-align: 25px; */
+    color:white;
+   }
+
+
+
+#controls{
+    text-align: center;
+    
+}
+
+#aboutContent{
+    margin-left: 200px; 
+    margin-right:10px;
+    padding-top: 20px;
+    border-top: solid;
+    background-color: white;
+    width: 650px;
+    color:#4aaaa5;   
+}
+
+hr{
+    border-style:solid;
+    color:#dddddd;
+    border-width:1px;
+    margin-left: 20px;
+    margin-right:20px;
+}
+
+#content{
+    margin-left: 300px; 
+    margin-right:10px;
+    padding-top: 20px;
+    border-top: solid;
+    background-color: white;
+    width: 500px;    
+    color:#4aaaa5;
+}
+#content h1{
+    margin-left:20px;
+}
+img{
+    float:left;
+}
+
+#contact{
+    color:#4aaaa5;
+    margin:0px;
+    padding:0px;
+    border:none;
+}
+
+#container{
+    background-image: url("../images/textured.png");
+    margin:0px;
+    padding:0px;
+    border:none;
+}
+
+footer{
+    text-align:center;
+    background-color:#666666;
+    height: 50px;
+    vertical-align:baseline;
+}
